@@ -1,0 +1,15 @@
+# Mac OS X
+.DS_Store
+
+# Jetbrain products
+.idea/
+
+# Environment variables
+.env
+
+# npm
+package-lock.json
+node_modules/
+
+# etc
+*.key
